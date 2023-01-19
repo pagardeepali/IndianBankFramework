@@ -1,0 +1,27 @@
+# PDF AND CSV FILES
+*.csv
+*.pdf
+*.png
+
+#APPLICATION 
+*.exe
+*.apk
+*.war
+
+#Reports and files
+*.log
+*.html
+*.Log
+log/
+
+#Package files
+*.jar
+
+#Class files
+*.class
+
+#Intelij IDEA
+.idea/
+*.iml
+ScreenShotsTest/
+target/
